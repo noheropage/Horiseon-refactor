@@ -6,7 +6,7 @@ This project starting with (mostly) operational code and tasked us with improvin
 
 The "hero" img (or background img) was moved from the CSS stylesheet to the HTML for searchability reasons. Unsure if this is a stock img or a real company photo but it displays more prominantly in search engines (which is what Horiseon is all about, right?) when used within the HTML.
 
-Here's the Horiseon front page: (https://noheropage.github.io/Horiseon-refactor/)
+Here's the Horiseon front page: https://noheropage.github.io/Horiseon-refactor/
 
 Or just a peek-a-boo
-![front page screenshot](assets/images/Horiseon_screenshot.png)
+![front page screenshot](assets/images/Horiseon_screenshot.PNG)
